@@ -1,6 +1,6 @@
-# NASA Earth Viewer
+# NASA Explorer
 
-![NASA Earth Viewer](H:\SoC%20Projects\Portfolio\images\NasaExplorer-Thumb.png)
+![NASA Explorer](src/assets/NasaExplorer-Thumb.png)
 
 A React application that lets you explore Earth imagery captured from space. Built during a hackathon as part of the School of Code Week 8 React Deep Dive.
 
@@ -28,7 +28,3 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 ## API
 
 This project uses the [NASA EPIC API](https://epic.gsfc.nasa.gov/about/api) to retrieve Earth Polychromatic Imaging Camera imagery and positional metadata by date.
-
-## Authors
-
-Built by BP & CJ

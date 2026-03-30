@@ -1,0 +1,12 @@
+.checkbox-container {
+  display: flex;
+  margin: 1rem;
+}
+
+.checkboxes {
+  margin-right: 1rem;
+}
+
+#check-container {
+  margin-top: 1rem;
+}

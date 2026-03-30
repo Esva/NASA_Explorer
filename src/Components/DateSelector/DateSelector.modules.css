@@ -1,0 +1,12 @@
+#date-selector {
+  display: flex;
+  flex-direction: column;
+}
+
+#date-label {
+  font-size: 2rem;
+}
+
+#date-selector {
+  margin-top: 20px;
+}

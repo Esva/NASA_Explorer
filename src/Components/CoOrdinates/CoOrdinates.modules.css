@@ -1,0 +1,12 @@
+#co-ord-container {
+  display: flex;
+  margin-top: 20px;
+}
+
+#co-ord-left-container {
+  display: flex;
+}
+
+#co-ord-right-container {
+  display: flex;
+}
